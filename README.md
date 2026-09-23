@@ -17,8 +17,8 @@ Checkout, tela de produto, catálogo, home com banner
 
 1. Melhoria 1
     1. tipos:
-    -[X] TAREFA CONCLUIDA
-    -[] TAREFA NAO CONCLUIDA
+    - [X] TAREFA CONCLUIDA
+    - [] TAREFA NAO CONCLUIDA
 2. Melhoria 2
 
 ### Links interessantes
