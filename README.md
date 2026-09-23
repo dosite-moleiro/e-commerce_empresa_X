@@ -17,3 +17,5 @@ Checkout, tela de produto, catálogo, home com banner
 
 1. Melhoria 1
 2. Melhoria 2
+
+![Imagem python](img/Python-logo.png)
