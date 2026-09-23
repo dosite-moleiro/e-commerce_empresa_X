@@ -1,6 +1,6 @@
 # e-commerce_empresa_X
 
-Vamos criar um e-commerce para a empresa X
+Vamos criar um **e-commerce** para a _empresa_ X
 
 ## Funcionalidades
 
